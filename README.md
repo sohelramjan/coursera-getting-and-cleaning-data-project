@@ -15,3 +15,4 @@ The R script, `run_analysis.R`, does the following:
    variable for each subject and activity pair.
 
 The end result is shown in the file `tidy.txt`.
+
